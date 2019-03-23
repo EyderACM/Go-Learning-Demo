@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	/* It is implied that this is a String, so
-		 writing "string" afterwards, isn't needed
+	writing "string" afterwards, isn't needed
 	var name string = "Eyder"
 	*/
 
